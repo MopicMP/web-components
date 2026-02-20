@@ -1,0 +1,25 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "Vanilla web components starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "components",
+    "js",
+    "tool",
+    "utility",
+    "web"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/web-components.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
